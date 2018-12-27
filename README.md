@@ -1,1 +1,1 @@
-# quete-android
+# Pattern Builder and XML parser
