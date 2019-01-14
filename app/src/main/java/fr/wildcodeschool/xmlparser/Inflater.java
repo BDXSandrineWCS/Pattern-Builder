@@ -29,7 +29,7 @@ public class Inflater {
    * @throws IOException
    * @throws XmlPullParserException
    */
-  public void inflate(ViewGroup pParent) throw IOException, XmlPullParserException {
+  public void inflate(ViewGroup pParent) throws IOException, XmlPullParserException {
     // Store the parent
     ViewGroup lParentView = pParent;
 
